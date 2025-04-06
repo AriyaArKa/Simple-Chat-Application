@@ -28,7 +28,7 @@
 	 		            align-items-center
 	 		            flex-column">
 
-	 		<img src="img/logo.png" 
+	 		<img src="img/logo.jpg" 
 	 		     class="w-25">
 	 		<h3 class="display-4 fs-1 
 	 		           text-center">
